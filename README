@@ -1,0 +1,11 @@
+Try it out:
+
+    tiddlywiki mynewwiki --init server to create a folder for a new wiki that includes server-related components
+    tiddlywiki mynewwiki --server to start TiddlyWiki
+    Visit http://127.0.0.1:8080/ in your browser
+    Try editing and creating tiddlers
+
+Optionally, make an offline copy:
+
+    click the save changes button in the sidebar, OR
+    tiddlywiki mynewwiki --build index
